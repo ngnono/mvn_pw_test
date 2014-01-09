@@ -1,0 +1,7 @@
+<html t:type="layout" title="About pw_test"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_3.xsd"
+      xmlns:p="tapestry:parameter">
+
+    <p>About pw_test application ...</p>
+
+</html>
