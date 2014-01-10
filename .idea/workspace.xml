@@ -67,7 +67,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="26" selection-start="338" selection-end="338" vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="3360">
+            <state line="4" column="18" selection-start="330" selection-end="330" vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="3360">
               <folding>
                 <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
                 <element signature="tag#properties#0;tag#project#0" expanded="false" />
@@ -531,12 +531,12 @@
       <updated>1389151740497</updated>
       <workItem from="1389151744567" duration="1927000" />
       <workItem from="1389165313489" duration="407000" />
-      <workItem from="1389165727409" duration="6915000" />
+      <workItem from="1389165727409" duration="6967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9249000" />
+    <option name="totallyTimeSpent" value="9301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -640,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="26" selection-start="338" selection-end="338" vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="3360">
+        <state line="4" column="18" selection-start="330" selection-end="330" vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="3360">
           <folding>
             <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />

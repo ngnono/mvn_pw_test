@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.ngnono</groupId>
     <artifactId>pw_test</artifactId>
-    <version>1.0-snapshots</version>
+    <version>1.0.0-snapshots</version>
     <packaging>pom</packaging>
 
     <modules>
