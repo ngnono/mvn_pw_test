@@ -15,9 +15,9 @@
     <name>pw_test Tapestry 5 Application</name>
 
     <scm>
-        <connection>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</connection>
-        <url>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</url>
-        <developerConnection>scm:git:www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</developerConnection>
+        <connection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</connection>
+        <url>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</url>
+        <developerConnection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</developerConnection>
     </scm>
 
     <dependencies>
