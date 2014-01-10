@@ -12,7 +12,7 @@
         </module>
     </modules>
 
-    <name>pw_test Tapestry 5 Application</name>
+    <name>pw_test</name>
 
     <scm>
         <connection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</connection>

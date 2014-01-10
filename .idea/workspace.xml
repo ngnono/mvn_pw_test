@@ -67,7 +67,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="96" selection-start="816" selection-end="816" vertical-scroll-proportion="0.57228917" vertical-offset="0" max-vertical-offset="3360">
+            <state line="14" column="17" selection-start="490" selection-end="490" vertical-scroll-proportion="0.42168674" vertical-offset="0" max-vertical-offset="3360">
               <folding>
                 <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
                 <element signature="tag#properties#0;tag#project#0" expanded="false" />
@@ -80,7 +80,9 @@
         <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state line="13" column="18" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
-              <folding />
+              <folding>
+                <marker date="1389324733000" expanded="true" signature="353:486" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,7 +141,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="pw_test Tapestry 5 Application" />
+          <option name="myItemId" value="pw_test" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -149,7 +151,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="pw_test Tapestry 5 Application" />
+          <option name="myItemId" value="pw_test" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -522,12 +524,12 @@
       <updated>1389151740497</updated>
       <workItem from="1389151744567" duration="1927000" />
       <workItem from="1389165313489" duration="407000" />
-      <workItem from="1389165727409" duration="7868000" />
+      <workItem from="1389165727409" duration="8906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10202000" />
+    <option name="totallyTimeSpent" value="11240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -594,7 +596,9 @@
     <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="36" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="1350">
-          <folding />
+          <folding>
+            <marker date="1389324733000" expanded="true" signature="353:486" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,7 +615,9 @@
     <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="29" selection-start="419" selection-end="419" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1350">
-          <folding />
+          <folding>
+            <marker date="1389324733000" expanded="true" signature="353:486" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -625,13 +631,15 @@
     <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="18" selection-start="505" selection-end="505" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
-          <folding />
+          <folding>
+            <marker date="1389324733000" expanded="true" signature="353:486" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="96" selection-start="816" selection-end="816" vertical-scroll-proportion="0.57228917" vertical-offset="0" max-vertical-offset="3360">
+        <state line="14" column="17" selection-start="490" selection-end="490" vertical-scroll-proportion="0.42168674" vertical-offset="0" max-vertical-offset="3360">
           <folding>
             <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
