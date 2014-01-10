@@ -67,12 +67,11 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="72" selection-start="5136" selection-end="5136" vertical-scroll-proportion="0.7470511" vertical-offset="15" max-vertical-offset="1005">
+            <state line="23" column="18" selection-start="904" selection-end="904" vertical-scroll-proportion="0.6927711" vertical-offset="0" max-vertical-offset="1920">
               <folding>
-                <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
                 <element signature="tag#build#0;tag#project#0" expanded="false" />
+                <element signature="tag#repositories#0;tag#project#0" expanded="false" />
                 <element signature="tag#properties#0;tag#project#0" expanded="false" />
-                <element signature="tag#distributionManagement#0;tag#project#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -90,7 +89,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="10" selection-start="2236" selection-end="2238" vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="1335">
+            <state line="83" column="10" selection-start="2236" selection-end="2238" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="1335">
               <folding />
             </state>
           </provider>
@@ -201,7 +200,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -216,6 +215,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -251,7 +251,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -557,12 +556,13 @@
       <workItem from="1389151744567" duration="1927000" />
       <workItem from="1389165313489" duration="407000" />
       <workItem from="1389165727409" duration="11572000" />
-      <workItem from="1389334243397" duration="1589000" />
+      <workItem from="1389334243397" duration="2597000" />
+      <workItem from="1389342446884" duration="2017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15495000" />
+    <option name="totallyTimeSpent" value="18520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -590,7 +590,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18168813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19599427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -622,12 +622,36 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="3" selection-start="5551" selection-end="5551" vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="990">
+          <folding>
+            <element signature="tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#repositories#0;tag#project#0" expanded="false" />
+            <element signature="tag#properties#0;tag#project#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="10" selection-start="2236" selection-end="2238" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="1335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="95" column="0" selection-start="3669" selection-end="3669" vertical-scroll-proportion="0.0" vertical-offset="1251" max-vertical-offset="2280">
           <folding>
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#repositories#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
-            <element signature="tag#distributionManagement#0;tag#project#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -650,10 +674,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="184" column="4" selection-start="6900" selection-end="6900" vertical-scroll-proportion="0.0" vertical-offset="2580" max-vertical-offset="2580">
           <folding>
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#repositories#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
-            <element signature="tag#distributionManagement#0;tag#project#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -669,10 +692,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2340">
           <folding>
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#repositories#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
-            <element signature="tag#distributionManagement#0;tag#project#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -712,12 +734,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="72" selection-start="5136" selection-end="5136" vertical-scroll-proportion="0.7470511" vertical-offset="15" max-vertical-offset="1005">
+        <state line="23" column="18" selection-start="904" selection-end="904" vertical-scroll-proportion="0.6927711" vertical-offset="0" max-vertical-offset="1920">
           <folding>
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#build#0;tag#project#0" expanded="false" />
+            <element signature="tag#repositories#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
-            <element signature="tag#distributionManagement#0;tag#project#0" expanded="false" />
           </folding>
         </state>
       </provider>

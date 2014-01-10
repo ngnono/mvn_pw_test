@@ -13,10 +13,18 @@
 
     <name>pw_test</name>
 
+    <!--<scm>-->
+        <!--gitlab-->
+        <!--<connection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</connection>-->
+        <!--<url>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</url>-->
+        <!--<developerConnection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</developerConnection>-->
+    <!--</scm>-->
+
     <scm>
-        <connection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</connection>
-        <url>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</url>
-        <developerConnection>scm:git:git@10.32.34.117:lianghongpeng/org-ngnono-maven_pw_test.git</developerConnection>
+        <!--github-->
+        <connection>scm:git:git@github.com:ngnono/mvn_pw_test.git</connection>
+        <url>scm:git:git@github.com:ngnono/mvn_pw_test.git</url>
+        <developerConnection>scm:git:git@github.com:ngnono/mvn_pw_test.git</developerConnection>
     </scm>
 
     <dependencies>
@@ -168,5 +176,4 @@ of testing facilities designed for use with TestNG (http://testng.org/), so it's
 
         </snapshotRepository>
     </distributionManagement>
-
 </project>
