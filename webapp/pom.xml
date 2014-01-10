@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>org.ngnono</groupId>
-        <version>1.2-SNAPSHOT</version>
+        <version>1.2</version>
         <artifactId>pw_test</artifactId>
     </parent>
 
