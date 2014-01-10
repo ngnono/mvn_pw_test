@@ -67,7 +67,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="157" column="33" selection-start="6281" selection-end="6281" vertical-scroll-proportion="0.90361446" vertical-offset="555" max-vertical-offset="2280">
+            <state line="18" column="43" selection-start="743" selection-end="743" vertical-scroll-proportion="0.42168674" vertical-offset="0" max-vertical-offset="2280">
               <folding>
                 <element signature="tag#modules#0;tag#project#0" expanded="false" />
                 <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
@@ -90,7 +90,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="37" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
+            <state line="5" column="37" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1335">
               <folding />
             </state>
           </provider>
@@ -526,12 +526,12 @@
       <updated>1389151740497</updated>
       <workItem from="1389151744567" duration="1927000" />
       <workItem from="1389165313489" duration="407000" />
-      <workItem from="1389165727409" duration="5030000" />
+      <workItem from="1389165727409" duration="5839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7364000" />
+    <option name="totallyTimeSpent" value="8173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -632,14 +632,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webapp/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1350">
+        <state line="5" column="37" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1335">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="33" selection-start="6281" selection-end="6281" vertical-scroll-proportion="0.90361446" vertical-offset="555" max-vertical-offset="2280">
+        <state line="18" column="43" selection-start="743" selection-end="743" vertical-scroll-proportion="0.42168674" vertical-offset="0" max-vertical-offset="2280">
           <folding>
             <element signature="tag#modules#0;tag#project#0" expanded="false" />
             <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
