@@ -1,8 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.ngnono</groupId>
     <artifactId>pw_test</artifactId>
-    <version>1.2.0-snapshots</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -14,12 +15,10 @@
     <name>pw_test Tapestry 5 Application</name>
 
     <scm>
-        <connection>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</connection>
-        <url>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</url>
-        <developerConnection>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</developerConnection>
-
-        <tag>v1.2</tag>
-  </scm>
+        <connection>scm:git:ssh://lianghongpeng@http://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</connection>
+        <url>scm:git:ssh://lianghongpeng@http://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</url>
+        <developerConnection>scm:git:ssh://lianghongpeng@http://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</developerConnection>
+    </scm>
 
     <dependencies>
         <!-- Too set up an application with a database, change the artifactId below to
@@ -158,7 +157,7 @@ of testing facilities designed for use with TestNG (http://testng.org/), so it's
         </plugins>
     </build>
 
-    <reporting />
+    <reporting/>
 
     <repositories>
 
