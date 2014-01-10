@@ -18,6 +18,7 @@
         <url>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</url>
         <developerConnection>scm:git://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</developerConnection>
 
+        <tag>v1.2</tag>
   </scm>
 
     <dependencies>
