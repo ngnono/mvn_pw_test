@@ -67,10 +67,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="43" selection-start="743" selection-end="743" vertical-scroll-proportion="0.42168674" vertical-offset="0" max-vertical-offset="2280">
+            <state line="20" column="45" selection-start="843" selection-end="843" vertical-scroll-proportion="0.60240966" vertical-offset="0" max-vertical-offset="3360">
               <folding>
-                <element signature="tag#modules#0;tag#project#0" expanded="false" />
-                <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
                 <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
                 <element signature="tag#properties#0;tag#project#0" expanded="false" />
               </folding>
@@ -526,16 +524,16 @@
       <updated>1389151740497</updated>
       <workItem from="1389151744567" duration="1927000" />
       <workItem from="1389165313489" duration="407000" />
-      <workItem from="1389165727409" duration="5839000" />
+      <workItem from="1389165727409" duration="6802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8173000" />
+    <option name="totallyTimeSpent" value="9136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -556,10 +554,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18168813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19599427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -589,8 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="184" column="4" selection-start="6900" selection-end="6900" vertical-scroll-proportion="0.0" vertical-offset="2580" max-vertical-offset="2580">
           <folding>
-            <element signature="tag#modules#0;tag#project#0" expanded="false" />
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
           </folding>
@@ -608,8 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="18" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2340">
           <folding>
-            <element signature="tag#modules#0;tag#project#0" expanded="false" />
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
           </folding>
@@ -639,10 +633,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="43" selection-start="743" selection-end="743" vertical-scroll-proportion="0.42168674" vertical-offset="0" max-vertical-offset="2280">
+        <state line="20" column="45" selection-start="843" selection-end="843" vertical-scroll-proportion="0.60240966" vertical-offset="0" max-vertical-offset="3360">
           <folding>
-            <element signature="tag#modules#0;tag#project#0" expanded="false" />
-            <element signature="tag#dependencies#0;tag#project#0" expanded="false" />
             <element signature="tag#plugin#2;tag#plugins#0;tag#build#0;tag#project#0" expanded="false" />
             <element signature="tag#properties#0;tag#project#0" expanded="false" />
           </folding>
