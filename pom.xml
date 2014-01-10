@@ -14,6 +14,12 @@
 
     <name>pw_test Tapestry 5 Application</name>
 
+    <scm>
+        <connection>scm:git:ssh://lianghongpeng@http://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</connection>
+        <url>scm:git:ssh://lianghongpeng@http://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</url>
+        <developerConnection>scm:git:ssh://lianghongpeng@http://www.yintai.me/lianghongpeng/org-ngnono-maven_pw_test</developerConnection>
+    </scm>
+
     <dependencies>
         <!-- Too set up an application with a database, change the artifactId below to
              tapestry-hibernate, and add a dependency on your JDBC driver. You'll also
@@ -141,6 +147,12 @@ of testing facilities designed for use with TestNG (http://testng.org/), so it's
                         </goals>
                     </execution>
                 </executions>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.4.2</version>
             </plugin>
         </plugins>
     </build>
